@@ -1,7 +1,14 @@
 ### Hi there 👋
 <img align="right" height="511em" 
 <h1 align="left">Hi, I'm Adson Dias, programming creator!</h1>
-<p align="left"> <img src="https://github.com/meninofeiu/?username=meninofeiu&color=blue" alt="Profiles views" /> </p>
+<p align="left"> <img src="https://github.com/meninofeiu/?username=meninofeiu&color=blue"/> </p>
+
+- 🔥 Beginning web developer
+
+- 🔭 I’m currently looking for work!
+
+- 💬 Ask me about **Python, HTML, CSS, C#**
+
 
 <!--
 **meninofeiu/meninofeiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
