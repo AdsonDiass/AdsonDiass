@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://github.com/meninofeiu/?username=meninofeiu&color=blue"/> </p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/manufacturetocat/">
 
-<p align="left"> <a href="https://twitter.com/Kreitinmilgrau" target="blank"><img src="https://img.shields.io/twitter/follow/Kreitinmilgrau?logo=twitter&style=for-the-badge" alt="Kreitinmilgrau" /></a> </p>
+<p align="left"> <a href="https://twitter.com/XKreitinmilgrau" target="blank"><img src="https://img.shields.io/twitter/follow/XKreitinmilgrau?logo=twitter&style=for-the-badge" alt="XKreitinmilgrau" /></a> </p>
 
 
 - 🔥 Beginning web developer
