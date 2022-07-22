@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" height="511em" 
 <h1 align="left">Hi, I'm Adson Dias, programming creator!</h1>
 <p align="left"> <img src="https://github.com/meninofeiu/?username=meninofeiu&color=blue"/> </p>
