@@ -3,7 +3,7 @@
 <img align="right" height="511em" 
 <h1 align="left">Hi, I'm Adson Dias, programming creator!</h1>
 <p align="left"> <img src="https://github.com/meninofeiu/?username=meninofeiu&color=blue"/> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1172077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/manufacturetocat/">
 
 - 🔥 Beginning web developer
 
