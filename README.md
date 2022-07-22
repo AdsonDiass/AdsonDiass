@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://github.com/meninofeiu/?username=meninofeiu&color=blue"/> </p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/manufacturetocat/">
 
+<p align="left"> <a href="https://twitter.com/Kreitinmilgrau"
+
 - 🔥 Beginning web developer
 
 - 🔭 I’m currently looking for work!
