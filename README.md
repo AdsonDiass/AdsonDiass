@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Adson Dias</h1>
+<h3 align="center">A passionate developer from Brazil</h3>
 <img align="right" height="511em" 
 <h1 align="left">Hi, I'm Adson Dias, programming creator!</h1>
 <p align="left"> <img src="https://github.com/meninofeiu/?username=meninofeiu&color=blue"/> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔥 Beginning web developer
 
