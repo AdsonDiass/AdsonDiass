@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently looking for work!
 
-- 💬 Ask me about **HTML, CSS, C# and Python**
+- 💬 Learning about **HTML, CSS, C# and Python**
  
 
  ## 📲 Social Links  
