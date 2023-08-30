@@ -32,6 +32,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meninofeiu&&theme=tokyonight" alt="meninofeiu" /></p>
 
 
+![Snake animation](https://github.com/gardeniaftech/gardeniaftech/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **meninofeiu/meninofeiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
