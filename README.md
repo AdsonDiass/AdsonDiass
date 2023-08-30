@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adson Dias</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">A developer from Brazil</h3>
 <img align="right" height="511em" 
 <h1 align="left">Hi, I'm Adson Dias, programming creator!</h1>
 <p align="left"> <img src="https://github.com/meninofeiu.png"/> </p>
