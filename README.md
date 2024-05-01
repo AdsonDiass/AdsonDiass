@@ -42,7 +42,8 @@
 ## ⚙️  GitHub Analytics
 <p align="esquerda">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=AdsonDiass&show_icons=true&theme=dracula" alt="AdsonDiass's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdsonDiass&layout=compact&theme=dracula"/>
+ <img width="530em" src="https://streak-stats.demolab.com/?user=AdsonDiass&theme=dracula" />
+
 </p>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdsonDiass&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdsonDiass&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdsonDiass&theme=nord_dark) |
