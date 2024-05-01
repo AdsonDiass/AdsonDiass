@@ -32,7 +32,7 @@
   <img align="center"  alt="Code" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
   <img align="center"  alt="Studio" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"/>
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meninofeiu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="meninofeiu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdsonDiass&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AdsonDiass" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdsonDiass&show_icons=true&locale=en&theme=tokyonight" alt="AdsonDiass" /></p>
 
