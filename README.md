@@ -35,16 +35,16 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meninofeiu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="meninofeiu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meninofeiu&show_icons=true&locale=en&theme=tokyonight" alt="meninofeiu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdsonDiass&show_icons=true&locale=en&theme=tokyonight" alt="AdsonDiass" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meninofeiu&&theme=tokyonight" alt="meninofeiu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdsonDiass&&theme=tokyonight" alt="AdsonDiass" /></p>
 
 <br><br>
 ## ⚙️  GitHub Analytics
 <p align="esquerda">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Gustavo13Cs&show_icons=true&theme=dracula" alt="Gustavo13Cs's stats"/>
-<img width="530em" src="https://streak-stats.demolab.com/?user=Gustavo13Cs&theme=dracula" />
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo13Cs&layout=compact&theme=dracula"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=AdsonDiass&show_icons=true&theme=dracula" alt="AdsonDiass's stats"/>
+<img width="530em" src="https://streak-stats.demolab.com/?user=AdsonDiass&theme=dracula" />
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdsonDiass&layout=compact&theme=dracula"/>
 </p>
 
 
