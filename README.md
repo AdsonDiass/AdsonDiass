@@ -40,7 +40,6 @@
 
 <br><br>
 ## ⚙️  GitHub Analytics
- <img width="530em" src="https://streak-stats.demolab.com/?user=AdsonDiass&theme=dracula" />
 
 </p>
 
