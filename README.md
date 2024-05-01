@@ -3,6 +3,7 @@
 <img align="right" height="511em" 
 <h1 align="left">Hi, I'm Adson Dias, programming creator!</h1>
 <p align="left"> <img src="https://github.com/AdsonDiass.png"/> </p>
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/manufacturetocat/">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gustavo13Cs&color=yellow" alt="Visualizações de perfil" /> </p>
 
