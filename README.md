@@ -39,6 +39,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meninofeiu&&theme=tokyonight" alt="meninofeiu" /></p>
 
+<br><br>
+## ⚙️  GitHub Analytics
+<p align="esquerda">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Gustavo13Cs&show_icons=true&theme=dracula" alt="Gustavo13Cs's stats"/>
+<img width="530em" src="https://streak-stats.demolab.com/?user=Gustavo13Cs&theme=dracula" />
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo13Cs&layout=compact&theme=dracula"/>
+</p>
+
 
 ![Snake animation](https://github.com/gardeniaftech/gardeniaftech/blob/output/github-contribution-grid-snake.svg)
 
