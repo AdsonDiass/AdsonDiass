@@ -3,7 +3,6 @@
 <img align="right" height="511em" 
 <h1 align="left">Hi, I'm Adson Dias, programming creator!</h1>
 <p align="left"> <img src="https://github.com/AdsonDiass.png"/> </p>
-<img align="right" alt="Coding" width="400" src="ofintechtocat/">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdsonDiass&color=yellow" alt="Visualizações de perfil" /> </p>
 
 <p align="left"> <a href="https://twitter.com/XKreitinmilgrau" target="blank"><img src="https://img.shields.io/twitter/follow/XKreitinmilgrau?logo=twitter&style=for-the-badge" alt="XKreitinmilgrau" /></a> </p>
@@ -43,7 +42,6 @@
 ## ⚙️  GitHub Analytics
 <p align="esquerda">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=AdsonDiass&show_icons=true&theme=dracula" alt="AdsonDiass's stats"/>
-<img width="530em" src="https://streak-stats.demolab.com/?user=AdsonDiass&theme=dracula" />
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdsonDiass&layout=compact&theme=dracula"/>
 </p>
 
