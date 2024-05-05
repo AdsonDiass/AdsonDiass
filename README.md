@@ -21,7 +21,7 @@
 <a href="https://twitter.com/XKreitinmilgrau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="XKreitinmilgrau" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/adsondias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adson-dias-a3709623b" height="30" width="40" /></a>
 <a href="https://instagram.com/adson_di4s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adson_di4s" height="30" width="40" /></a>
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#0000ff )](https://adsondportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google&logoColor=#0000ff )](https://adsondportfolio.netlify.app/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="background:yellow">
