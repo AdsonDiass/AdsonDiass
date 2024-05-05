@@ -14,7 +14,7 @@
 
 - 💬 Learning about **HTML, CSS, C#, Java, JavaScript, C++ and Python**
 
-- **adsondportfolio.netlify.app**
+- **https://adsondportfolio.netlify.app**
  
 
  ## 📲 Social Links  
